@@ -1,4 +1,7 @@
-Yubikey for LUKS
+YubikeyArch for LUKS on Arch linux
+================
+
+WARNING: THIN IS NOT READY FOR USE YET!!!
 ================
 
 This package is inspired and based on https://github.com/tfheen/ykfde.
